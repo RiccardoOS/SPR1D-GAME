@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Pr0g3770_f1n4l3" targetName="Pr0g3770_f1n4l3" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7533337-5fae-4e36-8ded-99f48e05e437" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29n553HB3UAeEUTJmok0FnT3oIA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cmake.loaded.for.project&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pr0g3770_f1n4l3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pr0g3770_f1n4l3" TARGET_NAME="Pr0g3770_f1n4l3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Pr0g3770_f1n4l3" RUN_TARGET_NAME="Pr0g3770_f1n4l3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7533337-5fae-4e36-8ded-99f48e05e437" name="Changes" comment="" />
+      <created>1653735821943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653735821943</updated>
+      <workItem from="1653735823580" duration="5000" />
+      <workItem from="1653735850247" duration="9184000" />
+      <workItem from="1653900834871" duration="544000" />
+      <workItem from="1653901448536" duration="462000" />
+      <workItem from="1653915407586" duration="14181000" />
+      <workItem from="1653939265898" duration="3837000" />
+      <workItem from="1653943634065" duration="3560000" />
+      <workItem from="1653984217029" duration="44759000" />
+      <workItem from="1654036694864" duration="1360000" />
+      <workItem from="1654075637492" duration="11404000" />
+      <workItem from="1654088644305" duration="46000" />
+      <workItem from="1654088872690" duration="32000" />
+      <workItem from="1654089061276" duration="151000" />
+      <workItem from="1654106015409" duration="929000" />
+      <workItem from="1654107059634" duration="811000" />
+      <workItem from="1654112311687" duration="7000" />
+      <workItem from="1654114624011" duration="1681000" />
+      <workItem from="1654116420177" duration="13000" />
+      <workItem from="1654128778787" duration="1363000" />
+      <workItem from="1654362141303" duration="1880000" />
+      <workItem from="1654365378570" duration="595000" />
+      <workItem from="1654369760591" duration="2000" />
+      <workItem from="1654783562069" duration="1775000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
