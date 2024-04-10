@@ -1,0 +1,7 @@
+6
+Saved_Profiles.bin
+savegame_Nplayeres_game.bin
+savegame_Nplayeres_noGame.bin
+savegame_twoPlayers_game.bin
+savegame_twoPlayers_noGame.bin
+Elden Ring Ingame.bin
